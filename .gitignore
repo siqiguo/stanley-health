@@ -1,0 +1,8 @@
+.env
+*.key
+*.pem
+oauth-callback.json
+oauth-state
+__pycache__/
+*.pyc
+

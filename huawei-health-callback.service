@@ -1,0 +1,21 @@
+[Unit]
+Description=Huawei Health OAuth callback receiver
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=huawei-health
+Group=huawei-health
+ExecStart=/usr/bin/python3 /opt/huawei-health/callback.py
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/huawei-health
+
+[Install]
+WantedBy=multi-user.target
+

@@ -7,6 +7,8 @@
 - OAuth 回调：`https://siqiguo.me/health/oauth/callback`
 - 服务状态：`https://siqiguo.me/health/status`
 - 隐私说明：`https://siqiguo.me/health/privacy`
+- 用户协议：`https://siqiguo.me/health/agreement`
+- 申请演示：`https://siqiguo.me/health/demo`（仅使用模拟数据）
 
 ## 安全约定
 
@@ -25,4 +27,3 @@
 ## 当前状态
 
 华为账号服务已开通，Health Service Kit 权限仍在申请中。Health Service Kit 审批通过前不会尝试读取真实健康数据。
-

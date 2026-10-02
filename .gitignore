@@ -5,4 +5,7 @@ oauth-callback.json
 oauth-state
 __pycache__/
 *.pyc
-
+.private/
+docs/huawei-health-application-sample.xlsx
+docs/health-dashboard-demo.png
+docs/huawei-permissions.png

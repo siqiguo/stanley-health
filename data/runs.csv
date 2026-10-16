@@ -1,0 +1,7 @@
+date,start_time,distance_km,duration,total_calories_kcal,active_calories_kcal,avg_pace,best_pace,avg_speed_kmh,avg_cadence_spm,max_cadence_spm,avg_stride_cm,steps,avg_hr_bpm,max_hr_bpm,ascent_m,descent_m,aerobic_effect,vo2max_ml_kg_min,recovery_hours,ground_contact_ms,left_balance_pct,right_balance_pct,source
+2026-10-08,08:16,4.91,00:31:13,400,353,06:21,04:38,9.44,177,187,89,5527,148,166,10.5,10.5,2.4,45,14,307,49.9,50.1,Huawei Health screenshot
+2026-10-10,08:02,6.23,00:46:52,538,467,07:31,06:40,7.98,176,188,75,8260,141,152,17.5,21.6,2.5,46,13,314,50.1,49.9,Huawei Health screenshot
+2026-10-12,08:15,6.01,00:35:42,506,452,05:56,05:13,10.10,176,184,95,6316,160,169,18.9,21.6,3.0,46,20,301,50.0,50.0,Huawei Health screenshot
+2026-10-13,08:16,5.42,00:38:53,459,400,07:10,06:10,8.36,175,182,79,6826,142,150,13.7,13.7,2.3,46,15,315,49.9,50.1,Huawei Health screenshot
+2026-10-15,08:40,6.21,00:38:22,522,464,06:11,05:33,9.71,175,183,92,6716,155,163,18.9,21.6,2.9,46,20,307,49.8,50.2,Huawei Health screenshot
+2026-10-16,08:15,5.01,00:35:08,425,372,07:01,05:57,8.56,175,184,81,6170,143,153,8.3,10.7,2.2,46,12,311,49.9,50.1,Huawei Health screenshot

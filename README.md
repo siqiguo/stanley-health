@@ -23,6 +23,8 @@
 - `callback.py`：无第三方依赖的回调接收器。
 - `huawei-health-callback.service`：systemd 单元。
 - `nginx-health.conf`：HTTPS 站点中的 Nginx location 配置片段。
+- `data/runs.csv`：从华为运动健康截图整理的结构化跑步记录。
+- `docs/running-summary.md`：近期跑步趋势与训练建议。
 
 ## 当前状态
 

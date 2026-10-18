@@ -23,7 +23,9 @@
 - `callback.py`：无第三方依赖的回调接收器。
 - `huawei-health-callback.service`：systemd 单元。
 - `nginx-health.conf`：HTTPS 站点中的 Nginx location 配置片段。
-- `data/runs.csv`：从华为运动健康截图整理的结构化跑步记录。
+- PostgreSQL `stanley_health.runs`：从华为运动健康截图整理的结构化跑步记录。
+- `health.py`：查询、导入及新增跑步记录；生产数据不再写 CSV。
+- `health_db.py`：数据库访问层。
 - `docs/running-summary.md`：近期跑步趋势与训练建议。
 
 ## 当前状态
